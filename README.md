@@ -37,3 +37,4 @@ Developed an end-to-end Business Intelligence solution using Python and Power BI
 <img width="967" height="549" alt="image" src="https://github.com/user-attachments/assets/d51f5fa8-4fc1-413b-899d-ba5252d88225" />
 <img width="1008" height="567" alt="image" src="https://github.com/user-attachments/assets/7eee58e7-be9c-4ef6-b958-fc599c19c534" />
 
+## Team: Diya Singh, Avika Bhardwaj
